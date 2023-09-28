@@ -1,4 +1,4 @@
-<h1>Hi, I'm Junior! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Junior! Passionate Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
